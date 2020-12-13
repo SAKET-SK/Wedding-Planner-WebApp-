@@ -1,0 +1,54 @@
+#fontsize{
+  font-size: 12px;
+}
+
+div ul a{
+  margin-left: 12px;
+}
+
+div h5{
+padding-top: 100px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+#small{
+  width:230px;
+  height: 330px;
+}
+
+.font-italic{
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+}
+#longer{
+  width: 250px;
+  height: 420px;
+  background-color: #f5f1f1;
+}
+#down{
+  padding-top: 50px;
+}
+#d-flex{
+  padding-top: 15px;
+  padding-bottom: 120px;
+}
+#d-flex2{
+  padding-top: 50px;
+}
+
+#center{
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-top:50px;
+}
+
+.size img{
+  padding-right: -10px;
+  padding-top: 20px;
+  width: 320px;
+  height:auto;
+}
